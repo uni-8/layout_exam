@@ -1,1 +1,0 @@
-- [DEMO LINK](https://uni-8.github.io/layout_exam/)
